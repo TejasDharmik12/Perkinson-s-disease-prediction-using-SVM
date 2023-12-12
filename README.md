@@ -1,1 +1,1 @@
-# Perkinson-s-disease-prediction-using-SVM
+# Parkinson-s-disease-prediction-using-SVM
